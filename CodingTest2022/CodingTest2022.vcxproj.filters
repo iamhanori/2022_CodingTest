@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CodingTest2022.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="sumAvg_0317.c">
+    <ClCompile Include="getMax_0324.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
