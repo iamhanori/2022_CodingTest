@@ -18,5 +18,8 @@
     <ClCompile Include="stringFunc.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="str.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
